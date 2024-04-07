@@ -1,6 +1,16 @@
 # 💫 About Me:
-a dedicated software engineer passionate about constructing robust backend systems. Currently, my focus is on the development of efficient and scalable backend projects, where I relish tackling intricate challenges and creating seamless user experiences. My journey in software development has been thrilling, and I am excited to showcase my projects and experiences on GitHub.
-
+As a Microsoft ADC Student League member, I worked with a team of talented software engineers to develop
+CassavaMax. This high-performance application leveraged machine learning and computer vision to improve
+cassava farming in Africa. I utilized the NestJS framework, Docker containers, and Azure Web Services to ensure
+an efficient and maintainable codebase, streamlined development workflows, and reliable application delivery.
+Additionally, I served as a campus ambassador for Cowrywise, a digital platform that provides financial education
+and wealth management services. In this role, I learned the core elements of financial literacy in today's digital
+world.
+During my bachelor's degree in computer science at the Federal University of Technology Akure, I achieved
+recognition on the Dean's List multiple times for my academic excellence. I also completed a data science fast-track program at Utiva and a full stack developer nano degree at Udacity, where I gained proficiency in Python,
+MySQL, Flask, Numpy, Pandas, Scikit-learn, and TensorFlow.
+My primary drive has always been to build solutions that become relevant and indispensable in everyday life
+while making processes easier to execute. I am particularly interested in building artificial intelligence-enabled solutions.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OjebiyiDaniel) 
