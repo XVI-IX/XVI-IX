@@ -27,6 +27,9 @@ My primary drive has always been to build solutions that become relevant and ind
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### 🤓 My Roadmaps
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b29ca9d9896b3d143451fd?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=XVI-IX&icon=5&color=0)](https://visitcount.itsvg.in)
 
